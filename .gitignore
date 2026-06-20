@@ -1,0 +1,15 @@
+config/database.php
+config/config.php
+.DS_Store
+*.log
+node_modules/
+vendor/
+*.env
+.vscode/
+.idea/
+uploads/*
+!uploads/.gitkeep
+cache/*
+!cache/.gitkeep
+session/*
+!session/.gitkeep
